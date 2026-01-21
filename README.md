@@ -11,6 +11,6 @@ Projekt wykorzystuje sieci CNN do klasyfikacji znaków drogowych.
 Osiągnięto skuteczność **99.77%**.
 
 ## Pliki
-- `podstawy-sieci-neuronowych-projekt.ipynb` - Kod źródłowy projektu (Python/Keras).
+- `podstawy-sieci-neuronowych-projekt.ipynb` - Kod źródłowy projektu.
 - `sprawozdanie_koncowe_KlepusewiczBrodziak.pdf` - Pełny raport z projektu.
 - `Prezentacja PSN.pdf` - Slajdy podsumowujące.
